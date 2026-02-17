@@ -112,10 +112,6 @@ python face_anonymizer_test.py
 - Webcam mode requires a connected camera device
 - Processing speed depends on image resolution and number of detected faces
 
-## License
-
-[Add your license here]
-
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests or report issues.
