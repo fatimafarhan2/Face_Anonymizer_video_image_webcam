@@ -19,7 +19,7 @@ A Python-based tool to automatically detect and blur faces in images, videos, an
 
 1. Clone or download this repository:
 ```bash
-git clone <[repository-url](https://github.com/fatimafarhan2/Face_Anonymizer_video_image_webcam)>
+git clone https://github.com/fatimafarhan2/Face_Anonymizer_video_image_webcam.git
 cd face_anonymizer
 ```
 
