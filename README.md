@@ -25,7 +25,7 @@ Note: mediapipe requires `protobuf<4.0`, while some mlflow dependencies (databri
 
 1. Clone or download this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/fatimafarhan2/Face_Anonymizer_video_image_webcam.git
 cd face_anonymizer
 ```
 
@@ -144,8 +144,7 @@ python log_to_mlflow.py
 - Ensure input files are in a readable format (PNG, JPG for images; MP4, AVI for videos)
 - Output and jsonfiles directories are created automatically if they don't exist
 - Webcam mode requires a connected camera device
-- Processing speed depends on image resolution, number of detected faces, and model selection
-
+- Processing speed depends on image resolution and number of detected faces
 
 ## Contributing
 
